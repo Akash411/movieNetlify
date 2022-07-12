@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movieNetlify/static/css/main.ab4ca018.css",
+    "main.js": "/movieNetlify/static/js/main.c371abb7.js",
+    "static/js/787.9fb41ef9.chunk.js": "/movieNetlify/static/js/787.9fb41ef9.chunk.js",
+    "index.html": "/movieNetlify/index.html",
+    "main.ab4ca018.css.map": "/movieNetlify/static/css/main.ab4ca018.css.map",
+    "main.c371abb7.js.map": "/movieNetlify/static/js/main.c371abb7.js.map",
+    "787.9fb41ef9.chunk.js.map": "/movieNetlify/static/js/787.9fb41ef9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab4ca018.css",
+    "static/js/main.c371abb7.js"
+  ]
+}
